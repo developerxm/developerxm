@@ -18,20 +18,23 @@
 - [Use the NIST Cybersecurity framework to respond to a security incident]
 - [Decrypt an encrypted message] 
 - [Improve AAA (Authentication, Authorization, and Accounting for SOHO/Small business]
+- [Analyze a vulnerable system for a SOHO/Small Business]
+- [Apply PASTA threat model framework] 
+- [Explore signatures and logs with Suricata]
+- [Performing queries with Wazuh]
+- [Incident Handler's Journal]
+- [Packet captures with TCPDump]
 
 <h2> 🌐CCNA/Networking Projects 🌐</h2>
 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ - [OSPF]
+
+ - [EIGRP]
 
 <h2>☁️ Cloud Labs ☁️</h2>
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
+- [AWS VPC]
+- [Azure VNET]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
